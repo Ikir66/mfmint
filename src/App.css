@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  background-image: url("bgup.png");
+  background-size:1000px;
+  z-index: +1;
+}
+
+.home {
+  text-align: center;
+}
